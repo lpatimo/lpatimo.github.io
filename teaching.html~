@@ -36,20 +36,6 @@
     <div id="site_content">
         <div id="content">
         <!-- insert the page content here -->
- 				<h3>Anno Accademico 24/25</h3>
-            <ul>
- 					    <li>Algebra I for Mathematics students.
- 					  	<li>Linear Algebra for Biomedical engineering students.
- 					  	 <li>Group and Representation for Mathematics students.
-			      </ul>              
-        
-        
- 				<h3>Anno Accademico 23/24</h3>
-            <ul>
- 					    <li>Algebra for computer science students.
-			      </ul>           
-        
-        
  				<h3>Sommersemester 22/23</h3>
             <ul>
  					    <li>Assistant for the course <a href="http://home.mathematik.uni-freiburg.de/soergel/ss23ana2.html">Analysis II</a>
